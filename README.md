@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mushfique Alam</h1>
-<h3 align="center">A passionate frontend/backend developer from India</h3>
+<h3 align="center"> My educational background includes a B.Tech in Computer Science. I am a full-stack developer, meaning I can work on the front-end and back-end both applications. At the back end, I work mostly with Java, Spring Boot, REST APIs, and MySQL. At the front end, I work with React.js, JavaScript, HTML, CSS, Tailwind CSS, and Bootstrap.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mushfiquealam&label=Profile%20views&color=0e75b6&style=flat" alt="mushfiquealam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MushfiqueAlam&label=Profile%20views&color=0e75b6&style=flat" alt="mushfiquealam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mushfiquealam" alt="mushfiquealam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MushfiqueAlam" alt="mushfiquealam" /></a> </p>
 
 - 🔭 I’m currently working on [Vaccination-Booking-System](https://github.com/MushfiqueAlam/vaccination-booking-system)
 
