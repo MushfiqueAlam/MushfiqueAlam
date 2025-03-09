@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,Microservices**
 
-- 💬 Ask me about **DSA,CORE JAVA, REACT.JS, JAVASCRIPT,OPPS,HTML,CSS**
+- 💬 Ask me about **DSA,CORE JAVA, REACT.JS, JAVASCRIPT,OOPS,HTML,CSS**
 
 - 📫 How to reach me **mushfique1213@gmail.com**
 
